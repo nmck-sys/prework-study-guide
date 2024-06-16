@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide was created to help me complete the UT Austin coding course. I built it to get a head start in learning the material and to reference it during the course. I learned about building a webpage using html as the foundation, then css, then Javascript. 
+This study guide was created to help me complete the UT Austin coding course. I built it to get a head start in learning the material and to reference it during the course. I learned about building a webpage using html as the foundation, then css, then Javascript 
 
 ## Table of Contents
 
